@@ -195,7 +195,7 @@ function main() {
     login
     membercenter
     openChg
-    #rm -rf $workdir
+    rm -rf $workdir
     echo; echo $(date) $username Accomplished.  Thanks!
 }
 
